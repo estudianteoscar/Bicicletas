@@ -32,17 +32,17 @@ Este sitio web está conectado a una base de datos y tiene como objetivo princip
 
 ### Vista Principal
 
-![Vista principal](./imagenes/Captura1.png)
+![Vista principal](./imagenes/Captura1.PNG)
 
 ### Vista Propietarios
-![Vista propietarios](./imagenes/captura2.png)
+![Vista propietarios](./imagenes/Captura2.PNG)
 
 ### Vista de Bicicletas
 
-![Vista Bicicletas](./imagenes/captura3.png)
+![Vista Bicicletas](./imagenes/Captura3.PNG)
 
 ## Vista Espacio Asignado
-![Vista Espacio Asignado](./imagenes/captura4.png)
+![Vista Espacio Asignado](./imagenes/Captura4.PNG)
 
 ---
 
