@@ -1,5 +1,7 @@
 create database if not exists parqueadero;
 
+use parqueadero;
+
 create table espacio_parqueadero
 (
     idEspacio int auto_increment
